@@ -1,14 +1,14 @@
 {
   "name": "csharp-to-typescript",
-  "version": "1.0.1",
-  "description": "This is package to convert C# poco class to typescript where user have flexibility to configure the library to get desired output.",
+  "version": "1.0.2",
+  "description": "This is package to convert C# poco class to typescript where user have flexibility to configure the library to get desired output. Orginally created by: Yuvraj Sagar Rana",
   "main": "index.js",
   "scripts": {
     "test": "testing.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YuvrajSagarRana/csharptotypescript.git"
+    "url": "git+https://github.com/Inexad/csharp-to-typescript-new.git"
   },
   "keywords": [
     "typescript",
@@ -22,10 +22,10 @@
     "poco",
     "csharptypescript"
   ],
-  "author": "Yuvraj Sagar Rana",
+  "author": "Daniel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YuvrajSagarRana/csharptotypescript/issues"
+    "url": "https://github.com/Inexad/csharp-to-typescript-new"
   },
-  "homepage": "https://github.com/YuvrajSagarRana/csharptotypescript#readme"
+  "homepage": "https://github.com/Inexad/csharp-to-typescript-new#readme"
 }
